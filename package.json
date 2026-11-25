@@ -1,6 +1,6 @@
 {
   "name": "@omicronenergy/oscd-plugin-scafold",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "OpenSCD starter with separate editor and menu plugins.",
   "type": "module",
   "repository": {
