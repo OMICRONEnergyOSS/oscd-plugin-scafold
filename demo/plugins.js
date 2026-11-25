@@ -1,5 +1,4 @@
-import OscdMenuOpen from '@omicronenergy/oscd-menu-open';
-import OscdMenuSave from '@omicronenergy/oscd-menu-save';
+import {OscdMenuOpen, OscdMenuSave} from '@omicronenergy/oscd-menu-commons';
 import OscdBackgroundEditV1 from '@omicronenergy/oscd-background-editv1';
 
 import OscdEditorScafold from '../dist/oscd-editor-scafold.js';
